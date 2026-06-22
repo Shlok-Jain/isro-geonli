@@ -51,4 +51,5 @@ This project integrates multiple open-source models and libraries. Each componen
 - **RemoteCLIP** - Licensed under Apache 2.0, allowing for free commercial use, modification, and distribution.
 
 Please refer to individual documentation files for specific citations and acknowledgments.
+
 ---
