@@ -1,4 +1,8 @@
 <div align="center">
+Accepted at IEEE IGARSS 2026, Washington DC, USA.
+</div>
+
+<div align="center">
 <img src="https://i.ibb.co/n8kcfR4T/Screenshot-2025-12-05-085957.png" alt="Screenshot-2025-12-05-085957" border="0">
 
 ---
@@ -10,9 +14,6 @@ TRINETRA is an AI-powered conversational platform designed for Geospatial Natura
 </div>
 
 ---
-
-### Accepted at IEEE IGARSS 2026, Washington DC, USA.
-
 
 ## Repository Structure
 
