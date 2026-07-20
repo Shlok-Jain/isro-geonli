@@ -11,6 +11,9 @@ TRINETRA is an AI-powered conversational platform designed for Geospatial Natura
 
 ---
 
+### Accepted at IEEE IGARSS 2026, Washington DC, USA.
+
+
 ## Repository Structure
 
 ```txt
